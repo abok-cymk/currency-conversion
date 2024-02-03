@@ -5,11 +5,11 @@ import "./App.css";
 // fake JSON data for currency rates
 const rates = {
   USD: 1,
-  EUR: 0.85,
-  GBP: 0.73,
-  KES: 109.57,
-  JPY: 109.93,
-  CNY: 6.46,
+  EUR: 0.9270,
+  GBP: 0.7915,
+  KES: 160.00,
+  JPY: 148.37,
+  CNY: 7.1920,
 };
 
 // a custom hook to get and set values in localstorage
