@@ -93,7 +93,7 @@ const App = () => {
     convert();
   }, [convert, inputCurrency, outputCurrency]);
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto px-4 py-8 bg-gradient-to-r from-gray-100 to-gray-300">
       <h1 className="text-4xl font-bold text-center mb-4">
         Currency Converter
       </h1>
